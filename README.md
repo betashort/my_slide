@@ -3,6 +3,7 @@
 
 ## Stapy
 stapy勉強会のLTスライド  
+[https://startpython.connpass.com](https://startpython.connpass.com)  
 
 
 ## Self_Seminar_DataScience
@@ -13,5 +14,6 @@ stapy勉強会のLTスライド
 
 ## Self_Seminar_fMRI
 「fMRI 原理と実践」の輪読会スライド  
-(http://sites.sinauer.com/fmri3e/index.html)の問題集を中心に解いていく。  
+[http://sites.sinauer.com/fmri3e/index.html](http://sites.sinauer.com/fmri3e/index.html)の問題集を中心に解いていく。  
+
 注意)解答が間違っている可能性あり  
